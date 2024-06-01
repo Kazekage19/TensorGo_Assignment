@@ -1,0 +1,12 @@
+pandas
+nltk
+streamlit
+openai-whisper
+sentence-transformers
+pinecone-client
+openai
+langchain
+langchain_community
+langchain-pinecone
+langchain-core
+rouge-score
