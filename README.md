@@ -1,5 +1,5 @@
 # Multilingual Retrieval-Augmented Generation (RAG) System
-
+# Submission by Akshat Srivastava - 2020UEA6620 NSUT
 This repository contains a Multilingual Retrieval-Augmented Generation (RAG) system that transcribes audio from video or audio files, generates embeddings, and creates a Pinecone vector index for efficient retrieval. The system utilizes OpenAI's Whisper for transcription, Sentence Transformer for embeddings, and integrates with GPT-3.5 via Langchain for summarization and translation tasks. Evaluation of the generated summaries and translations is performed using BLEU and ROUGE metrics.
 
 ## Getting Started
