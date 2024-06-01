@@ -10,3 +10,11 @@ Install the required Python libraries:
 
 ```sh
 pip install -r requirements.txt
+```
+Setup
+Clone the repository:
+
+```sh
+git clone https://github.com/Kazekage19/TensorGo_Assignment.git
+cd TensorGo_Assignment
+```
